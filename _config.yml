@@ -1,7 +1,7 @@
 # _config.yml
 title: Credant  # 网站标题
 description: A minimalist, decentralized networking tool  # 网站描述
-theme: jekyll-theme-slate   # 默认主题minima，可换成其他（如 jekyll-theme-slate）
+theme: minima #可换成其他（如 jekyll-theme-slate）
 plugins:
   - jekyll-feed
   - jekyll-seo-tag  # 优化SEO
