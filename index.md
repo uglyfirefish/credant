@@ -1,5 +1,5 @@
 # Credant - Minimalist Decentralized Networking
-<img src="/images/蚂蚁.svg" alt="logo" width=50 height=50 >
+<img src="/images/蚂蚁.svg" alt="logo" width=20 height=20 >
 
 ### Pain Points
 - **VPNs are a hassle**: Complex setup, time-consuming.
