@@ -2,6 +2,12 @@
 
 Here's a quick and easy guide to setting up CredAnt for accessing your internal network without a public IP address, using a simplified approach.
 
+## Downloads
+1. [cred_ant 0.1.14 for Linux](/downloads/cred_ant_linux_v0.1.14.tar.gz) 
+2. [cred_ant.0.1.4 for Mac Intel](/downloads/cred_ant_macos-amd64_v0.1.14.zip)
+3. [cred_ant.0.1.4 for Mac M1/M2](/downloads/cred_ant_macos-arm64_v0.1.14.zip)
+4.[cred_ant.0.1.4 for Windows10/11](/downloads/cred_ant_windows_v0.1.14.zip)
+
 ## Server-Side Installation (Example: Ubuntu 20.04)
 
 1.  **Download and Install:**

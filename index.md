@@ -1,6 +1,5 @@
 # Credant - Minimalist Decentralized Networking
-![](https://fastly.jsdelivr.net/gh/bucketio/img3@main/2025/03/25/1742888866820-b3017fb5-1b10-419f-9956-ed91e3214d97.png)
-
+![](/images/蚂蚁.svg)
 
 ### Pain Points
 - **VPNs are a hassle**: Complex setup, time-consuming.
@@ -22,3 +21,12 @@ Credant: Zero-config, decentralized, end-to-end encrypted.
 Download, run, connect — that’s it.  
 [Get Started](/install) | [Docs](/tech)
 
+### Price
+- Free plan: Limited 100 free licenses for 1 year
+- Pro plan: $3/month for a license
+- [Paypal](https://paypal.me/credantio?country.x=C2&locale.x=en_US)
+
+### Contact
+* [telegram:credant_community](https://t.me/credant_community)
+* [X: credant support](https://twitter.com/daego)
+* [email](mailto:credant.io@gmail.com)
