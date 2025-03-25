@@ -20,5 +20,5 @@ Credant: Zero-config, decentralized, end-to-end encrypted.
 
 ### Get Started
 Download, run, connect — that’s it.  
-[Get Started](/install.md) | [Docs](/tech.md)
+[Get Started](/install) | [Docs](/tech)
 
