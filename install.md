@@ -1,3 +1,6 @@
+---
+permalink: /install/
+---
 # **The Simplest Solution for Intranet Penetration Without a Public IP**
 
 Here's a quick and easy guide to setting up CredAnt for accessing your internal network without a public IP address, using a simplified approach.
