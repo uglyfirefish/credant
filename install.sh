@@ -1,11 +1,11 @@
 #!/bin/bash
-DOWNLOAD_URL_PREFIX="https://uglyfirefish.github.io/credant/downloads/"
+DOWNLOAD_URL_PREFIX="https://uglyfirefish.github.io/credant/downloads"
 SERVICE_NAME="cred_ant"
 SERVICE_FILE="/etc/systemd/system/${SERVICE_NAME}.service"
 EXECUTABLE="/usr/local/bin/${SERVICE_NAME}"
 
 install_service() {
-    echo "🔹 installing ${SERVICE_NAME} 服务..."
+    echo "🔹 installing ${SERVICE_NAME} service..."
     # 生成 service 文件
     cat <<EOF | sudo tee $SERVICE_FILE >/dev/null
 [Unit]
