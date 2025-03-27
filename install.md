@@ -1,5 +1,5 @@
 ---
-permalink: /install/
+
 ---
 # **The Simplest Solution for Intranet Penetration Without a Public IP**
 

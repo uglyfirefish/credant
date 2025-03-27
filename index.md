@@ -1,5 +1,5 @@
 # Credant - Minimalist Decentralized Networking
-<img src="/images/蚂蚁.svg" alt="logo" width=20 height=20 >
+![LOGO](/images/蚂蚁.svg)
 
 ### Pain Points
 - **VPNs are a hassle**: Complex setup, time-consuming.
@@ -19,7 +19,7 @@ Credant: Zero-config, decentralized, end-to-end encrypted.
 
 ### Get Started
 Download, run, connect — that’s it.  
-[Get Started](/install/) | [Technical Docs](/tech/)
+[Get Started](/install) | [Technical Docs](/tech)
 
 ### Price
 - Free plan: Limited 100 free licenses for 1 year
