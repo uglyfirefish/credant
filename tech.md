@@ -1,3 +1,7 @@
+---
+permalink: /tech
+---
+
 # **CredAnt: Background, Technical Principles, Architecture Analysis, and Use Cases**
 
 ## 1. Background Knowledge

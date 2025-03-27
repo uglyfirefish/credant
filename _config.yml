@@ -1,17 +1,5 @@
 # _config.yml
-title: Credant  # 网站标题
-description: A minimalist, decentralized networking tool  # 网站描述
-theme: minima #可换成其他（如 jekyll-theme-slate）
+# 禁用所有主题并启用基本 Markdown 渲染
+theme: null
 plugins:
-  - jekyll-feed
-  - jekyll-seo-tag  # 优化SEO
-
-# Markdown设置
-markdown: kramdown
-kramdown:
-  input: GFM  # 支持GitHub风格Markdown
-
-# 文件排除（可选）
-exclude:
-  - README.md
-  - Gemfile
+  - jekyll-optional-front-matter  # 允许无 Front Matter 的文件被处理
