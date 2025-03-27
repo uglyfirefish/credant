@@ -3,3 +3,12 @@
 theme: null
 plugins:
   - jekyll-optional-front-matter  # 允许无 Front Matter 的文件被处理
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-
+  
+baseurl: "/credant"   # 替换为你的仓库名
+
+include:
+  - .md

@@ -1,3 +1,7 @@
+---
+
+---
+
 # Credant - Minimalist Decentralized Networking
 ![LOGO](/images/蚂蚁.svg)
 
@@ -19,7 +23,7 @@ Credant: Zero-config, decentralized, end-to-end encrypted.
 
 ### Get Started
 Download, run, connect — that’s it.  
-[Get Started](/install) | [Technical Docs](/tech)
+[Get Started]({{ site.baseurl }}/install) | [Technical Docs]({{ site.baseurl }}/tech)
 
 ### Price
 - Free plan: Limited 100 free licenses for 1 year

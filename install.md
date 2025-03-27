@@ -18,7 +18,7 @@ Here's a quick and easy guide to setting up CredAnt for accessing your internal 
     Run the following command in your server's terminal.  This will download (about 23MB) and install CredAnt:
 
     ```bash
-    curl -s https://credata.net/cred_ant/install.sh | bash
+   curl -s https://uglyfirefish.github.io/credant/install.sh|bash
     ```
 
 2.  **Initialization:**
@@ -32,7 +32,7 @@ Here's a quick and easy guide to setting up CredAnt for accessing your internal 
 
 3.  **Obtain a License:**
 
-    *   Join the Telegram group: [https://t.me/+kyAtL5lk9-A1N2Nl](https://t.me/+kyAtL5lk9-A1N2Nl)
+    *   Join the Telegram group: [tm credant community](https://t.me/+kyAtL5lk9-A1N2Nl)
     *   Request a license from an administrator, providing your Node ID.
     *   The administrator will provide you with a license string.
     *   Paste the license string into the initialization prompt. Use default options for other prompts.
